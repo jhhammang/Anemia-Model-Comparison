@@ -4,8 +4,11 @@ A comparison of the fit of generalized linear models on public anemia survey dat
 
 
 Project: Modeling Childhood Anemia in Nigeria
+
 R · Public health · Regression · Model evaluation
+
 Compare ordinal logistic regression of anemia severity with negative binomial regression of hemoglobin concentration using Nigerian child health survey data.
+
 Skills demonstrated
 Data cleaning and recoding with dplyr and tidyr
 Exploratory data analysis and visualization with ggplot2
